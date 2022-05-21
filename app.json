@@ -9,17 +9,17 @@
     },
 
     "Vless_UUID": {
-      "description": "Vless uuid（http://www.uuid.online/在线生成）",
+      "description": "Vless uuid（http://www.uuid.online/)",
       "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
     },
 
     "Vless_Path": {
-      "description": "Path路径，默认/s233,为了安全你也可以使用uuid替换s233，/不能少。如果开启反代，不要与反代网站存在的uri相同",
+      "description": "Путь, по умолчанию - /s233. В целях безопасности вы также можете использовать uuid для замены s233, значение не может быть меньше "/".",
       "value": "/s233"
     },
     
     "Share_Path": {
-      "description": "Share path, /share233/index.html查看订阅链接及二维码",
+      "description": "Share path, /share233/index.html Просмотреть ссылку настроек и QR-код.",
       "value": "/share233"
     },
 
